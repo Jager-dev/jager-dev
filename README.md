@@ -10,8 +10,7 @@
 ![Node](https://img.shields.io/badge/Node.js-040c10?style=for-the-badge&logo=node.js&logoColor=589350)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-040c10?style=for-the-badge&logo=bootstrap&logoColor=533b78)
 ![PHP](https://img.shields.io/badge/PHP-040c10?style=for-the-badge&logo=php&logoColor=777bb3)
-![Ruby](https://img.shields.io/badge/Ruby-040c10?style=for-the-badge&logo=ruby&logoColor=8b0f07)
-![GO](https://img.shields.io/badge/Go-040c10?style=for-the-badge&logo=go&logoColor=00a7d0)
+
 
 
 

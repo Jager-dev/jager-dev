@@ -17,7 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-040c10?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/ulan-jakypov-72708117b/)
 [![GitLab](https://img.shields.io/badge/gitlab-040c10?style=for-the-badge&logo=gitlab&logoColor=777bb3)](https://gitlab.com/Jager-dev)
-![Instagram](https://img.shields.io/badge/Instagram-040c10?style=for-the-badge&logo=Instagram&logoColor=8f30ad)
+[![Instagram](https://img.shields.io/badge/Instagram-040c10?style=for-the-badge&logo=Instagram&logoColor=8f30ad)](https://instagram.com/xswern?utm_medium=copy_link)
 [![Facebook](https://img.shields.io/badge/Facebook-040c10?style=for-the-badge&logo=Facebook&logoColor=4867aa)](https://www.facebook.com/ulik.zhakypov/)
 
 

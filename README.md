@@ -1,6 +1,6 @@
 
-![Header](https://github.com/Jager-dev/jager-dev/blob/main/assets/Animated.gif)
-# I am a beginner Web-Developer
+<img src="https://github.com/Jager-dev/jager-dev/blob/main/assets/Animated.gif" alt="" width="813" height="250">
+#I am a beginner Web-Developer
 
 
 
@@ -13,8 +13,7 @@
 ![Flutter](https://img.shields.io/badge/Node.js-040c10?style=for-the-badge&logo=node.js&logoColor=589350)
 ![Flutter](https://img.shields.io/badge/Bootstrap-040c10?style=for-the-badge&logo=bootstrap&logoColor=533b78)
 ![Flutter](https://img.shields.io/badge/PHP-040c10?style=for-the-badge&logo=php&logoColor=777bb3)
-![Flutter](https://img.shields.io/badge/Ruby-040c10?style=for-the-badge&logo=ruby&logoColor=8b0f07)
-![Flutter](https://img.shields.io/badge/Go-040c10?style=for-the-badge&logo=go&logoColor=00a7d0)
+
 
 
 

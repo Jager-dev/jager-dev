@@ -1,6 +1,6 @@
 <img src="https://github.com/Jager-dev/jager-dev/blob/main/assets/Animated.gif" alt="" width="813" height="250"> 
 
-# My name's Ulan,I'm a Web-Developer
+# My name's Ulan, I'm a Web-Developer
 
 ## Languages and Tools:
 ![Flutter](https://img.shields.io/badge/Flutter-040c10?style=for-the-badge&logo=flutter&logoColor=47C5FB)

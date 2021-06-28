@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/Jager-dev/jager-dev/blob/main/assets/animation.gif)]
 
 About me
 

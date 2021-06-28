@@ -19,9 +19,9 @@
 
 
 ## Follow Me:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-040c10?style=for-the-badge&logo=linkedin&logoColor=0a66c2)
-![GitHub](https://img.shields.io/badge/Github-040c10?style=for-the-badge&logo=github&logoColor=ffffff)
-![GitLab](https://img.shields.io/badge/gitlab-040c10?style=for-the-badge&logo=gitlab&logoColor=777bb3)
+![[LinkedIn](https://img.shields.io/badge/LinkedIn-040c10?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/ulan-jakypov-72708117b/)
+![[GitHub](https://img.shields.io/badge/Github-040c10?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Jager-dev)
+![[GitLab](https://img.shields.io/badge/gitlab-040c10?style=for-the-badge&logo=gitlab&logoColor=777bb3)](https://gitlab.com/Jager-dev)
 ![Instagram](https://img.shields.io/badge/Instagram-040c10?style=for-the-badge&logo=Instagram&logoColor=8f30ad)
-![Facebook](https://img.shields.io/badge/Facebook-040c10?style=for-the-badge&logo=Facebook&logoColor=4867aa)
+![[Facebook](https://img.shields.io/badge/Facebook-040c10?style=for-the-badge&logo=Facebook&logoColor=4867aa)](https://www.facebook.com/ulik.zhakypov/)
     

@@ -2,6 +2,11 @@
 
 # My name's Ulan, I'm a Web-Developer
 
+## About Me:
+* 💻I'm currently learning Web Development
+* 🚲I like cycling, and playing football⚽
+* 🎯My dream is create own IT company
+
 ## Languages and Tools:
 ![Flutter](https://img.shields.io/badge/Flutter-040c10?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Java](https://img.shields.io/badge/Java-040c10?style=for-the-badge&logo=java&logoColor=ea171a)

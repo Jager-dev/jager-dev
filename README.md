@@ -3,7 +3,7 @@
 # My name's Ulan, I'm Web-Developer
 
 ## About Me:
-* 💻I'm currently learning Web Development
+* 💻I'm hard learning Web Development
 * 🚲I like cycling, and playing football⚽
 * 🎯My dream is create own IT company
 

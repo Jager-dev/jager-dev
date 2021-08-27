@@ -1,6 +1,6 @@
 <img src="https://github.com/Jager-dev/jager-dev/blob/main/assets/Animated.gif" alt="" width="813" height="250"> 
 
-# My name's Ulan, I'm Full-Stack Developer
+# My name's Ulan, I'm Front-End Developer
 
 ## About Me:
 * 💻I'm hard learning Web Development
